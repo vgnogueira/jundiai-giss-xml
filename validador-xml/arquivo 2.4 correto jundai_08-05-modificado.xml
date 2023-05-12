@@ -1,0 +1,70 @@
+<tns:EnviarLoteRpsEnvio xmlns="http://www.abrasf.org.br/nfse.xsd" xmlns:tns="http://www.abrasf.org.br/nfse.xsd" xmlns:tipos="http://www.abrasf.org.br/nfse.xsd">
+	<tns:LoteRps versao="10.00">
+		<tipos:NumeroLote>21178</tipos:NumeroLote>
+		<tipos:Prestador>
+			<tipos:CpfCnpj>
+				<tipos:Cnpj>05663297000199</tipos:Cnpj>
+			</tipos:CpfCnpj>
+			<tipos:InscricaoMunicipal>23101010</tipos:InscricaoMunicipal>
+		</tipos:Prestador>
+		<tipos:QuantidadeRps>1</tipos:QuantidadeRps>
+		<tipos:ListaRps>
+			<tipos:Rps>
+				<tipos:InfDeclaracaoPrestacaoServico>
+					<tipos:Rps>
+						<tipos:IdentificacaoRps>
+							<tipos:Numero>0012785999</tipos:Numero>
+							<tipos:Serie>2</tipos:Serie>
+							<tipos:Tipo>1</tipos:Tipo>
+						</tipos:IdentificacaoRps>
+						<tipos:DataEmissao>2023-05-08</tipos:DataEmissao>
+						<tipos:Status>1</tipos:Status>
+					</tipos:Rps>
+					<tipos:Competencia>2023-05-08</tipos:Competencia>
+					<tipos:Servico>
+						<tipos:Valores>
+							<tipos:ValorServicos>324.55</tipos:ValorServicos>
+						</tipos:Valores>
+						<tipos:IssRetido>2</tipos:IssRetido>
+						<tipos:ItemListaServico>4.22</tipos:ItemListaServico>
+						<tipos:CodigoTributacaoMunicipio>11</tipos:CodigoTributacaoMunicipio>
+						<tipos:Discriminacao>VALOR REFERENTE A CONTRAPRESTACOES DE PLANO DE SAUDE - CONTRATO 001.1096.000224.00.0  - CONFORME LEI 12.741/12, VALOR APROXIMADO DOS TRIBUTOS (6.65%) R$ 21.58</tipos:Discriminacao>
+						<tipos:CodigoMunicipio>3525904</tipos:CodigoMunicipio>
+						<tipos:MunicipioIncidencia>3525904</tipos:MunicipioIncidencia>
+						<tipos:CodigoPais>0076</tipos:CodigoPais>
+						<tipos:ExigibilidadeISS>1</tipos:ExigibilidadeISS>
+					</tipos:Servico>
+					<tipos:Prestador>
+						<tipos:CpfCnpj>
+							<tipos:Cnpj>05663297000199</tipos:Cnpj>
+						</tipos:CpfCnpj>
+						<tipos:InscricaoMunicipal>23101010</tipos:InscricaoMunicipal>
+					</tipos:Prestador>
+					<tipos:TomadorServico>
+						<tipos:IdentificacaoTomador>
+							<tipos:CpfCnpj>
+								<tipos:Cpf>39802404870</tipos:Cpf>
+							</tipos:CpfCnpj>
+						</tipos:IdentificacaoTomador>
+						<tipos:RazaoSocial>teste vini</tipos:RazaoSocial>
+						<tipos:Endereco>
+							<tipos:Endereco>AV RESERVA DO JAPY LOT GRAMADAO</tipos:Endereco>
+							<tipos:Numero>111</tipos:Numero>
+							<tipos:Complemento>BL 01 AP 104</tipos:Complemento>
+							<tipos:Bairro>REC Q CENTENARIO</tipos:Bairro>
+							<tipos:CodigoMunicipio>3525904</tipos:CodigoMunicipio>
+							<tipos:Uf>SP</tipos:Uf>
+							<tipos:Cep>13211772</tipos:Cep>
+						</tipos:Endereco>
+						<tipos:Contato>
+							<tipos:Telefone>1121751111</tipos:Telefone>
+							<tipos:Email>anderson.lima@tecnogroup.com.br</tipos:Email>
+						</tipos:Contato>
+					</tipos:TomadorServico>
+					<tipos:OptanteSimplesNacional>2</tipos:OptanteSimplesNacional>
+					<tipos:IncentivoFiscal>2</tipos:IncentivoFiscal>
+				</tipos:InfDeclaracaoPrestacaoServico>
+			</tipos:Rps>
+		</tipos:ListaRps>
+	</tns:LoteRps>
+</tns:EnviarLoteRpsEnvio>
